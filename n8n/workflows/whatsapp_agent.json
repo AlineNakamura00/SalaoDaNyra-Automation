@@ -1,0 +1,10 @@
+{
+  "name": "WhatsApp Agent",
+  "description": "Workflow for handling WhatsApp messages and automation",
+  "nodes": [],
+  "connections": {},
+  "active": false,
+  "settings": {
+    "executionOrder": "v1"
+  }
+}

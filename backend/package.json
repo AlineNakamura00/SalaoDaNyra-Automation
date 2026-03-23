@@ -1,0 +1,18 @@
+{
+  "name": "salao-da-nyra-backend",
+  "version": "1.0.0",
+  "description": "Backend API for Salão da Nyra",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "nodemon src/server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "dotenv": "^16.0.3",
+    "mysql2": "^3.1.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
