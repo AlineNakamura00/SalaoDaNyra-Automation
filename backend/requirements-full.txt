@@ -1,0 +1,11 @@
+# Full dependencies with database and integrations
+-r requirements-dev.txt
+
+# Database
+sqlalchemy==2.0.31
+alembic==1.14.1
+psycopg2-binary==2.9.11
+aiohttp==3.10.10
+
+# Optional: Google Calendar Integration
+google-auth-oauthlib==1.2.1
