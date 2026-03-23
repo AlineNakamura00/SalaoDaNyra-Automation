@@ -1,0 +1,10 @@
+{
+  "name": "Booking Flow",
+  "description": "Workflow for managing appointment bookings",
+  "nodes": [],
+  "connections": {},
+  "active": false,
+  "settings": {
+    "executionOrder": "v1"
+  }
+}

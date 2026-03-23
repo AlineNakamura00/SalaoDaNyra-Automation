@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Python
 __pycache__/
 *.py[cod]
@@ -41,11 +42,39 @@ out/
 dist/
 
 # IDEs
+=======
+# Dependencies
+node_modules/
+/.pnp
+.pnp.js
+
+# Testing
+/coverage
+
+# Production
+/build
+/dist
+
+# Misc
+.DS_Store
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# IDE
+>>>>>>> d5e07cabac1198879541d2314a9609a79c52bf2a
 .vscode/
 .idea/
 *.swp
 *.swo
 *~
+<<<<<<< HEAD
 .DS_Store
 Thumbs.db
 *.sublime-workspace
@@ -77,3 +106,16 @@ ehthumbs.db
 # Project specific
 salao_nyra.db
 SETUP_COMPLETO.ps1.bak
+=======
+
+# Database
+*.sql.bak
+database.db
+
+# Logs
+logs/
+*.log
+
+# OS
+Thumbs.db
+>>>>>>> d5e07cabac1198879541d2314a9609a79c52bf2a
